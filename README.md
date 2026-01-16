@@ -1,16 +1,19 @@
-## Hi there 👋
+# Merhaba, ben Sıla 👋
 
-<!--
-**slatamer/slatamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bilgisayar Mühendisliği Öğrencisi  
+💻 Yazılım geliştirme, web teknolojileri ve algoritmalarla ilgileniyorum. Uzmanlık alanımı belirleyebilmek için farklı alanları araştırıyor ve deneyimliyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Teknolojiler ve Araçlar  
+- C  
+- Java
+- HTML, CSS, JavaScript  
+- Git & GitHub  
+- Linux, VS Code
+
+---
+
+## 📫 Bana Ulaşın
+- 📧 E-posta: sila.ttamer@gmail.com 
+- 🔗 LinkedIn: www.linkedin.com/in/sıla-tamer-b32429382
