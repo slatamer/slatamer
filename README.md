@@ -9,8 +9,7 @@
 - C  
 - Java
 - HTML, CSS, JavaScript  
-- Git & GitHub  
-- Linux, VS Code
+- VS Code
 
 ---
 
