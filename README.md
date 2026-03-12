@@ -1,6 +1,7 @@
 # Merhaba, ben Sıla 👋
 
 🎓 Bilgisayar Mühendisliği öğrencisiyim. 
+
 💻 Yazılım geliştirme, web teknolojileri ve algoritmalarla ilgileniyorum. Uzmanlık alanımı belirleyebilmek için farklı alanları araştırıyor ve deneyimliyorum. Akademik eğitimimin yanında vakit buldukça eğitim programları ve seminerlerle bilgi ve vizyonumu genişletiyorum.
 
 ---
