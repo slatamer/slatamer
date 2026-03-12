@@ -1,7 +1,7 @@
 # Merhaba, ben Sıla 👋
 
-🎓 Bilgisayar Mühendisliği Öğrencisi  
-💻 Yazılım geliştirme, web teknolojileri ve algoritmalarla ilgileniyorum. Uzmanlık alanımı belirleyebilmek için farklı alanları araştırıyor ve deneyimliyorum.
+🎓 Bilgisayar Mühendisliği öğrencisiyim. 
+💻 Yazılım geliştirme, web teknolojileri ve algoritmalarla ilgileniyorum. Uzmanlık alanımı belirleyebilmek için farklı alanları araştırıyor ve deneyimliyorum. Akademik eğitimimin yanında vakit buldukça eğitim programları ve seminerlerle bilgi ve vizyonumu genişletiyorum.
 
 ---
 
@@ -9,7 +9,9 @@
 - C  
 - Java
 - HTML, CSS, JavaScript  
-- VS Code
+- Visual Studio 2022
+- Apache NetBeans
+- Notepad++
 
 ---
 
