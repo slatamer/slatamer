@@ -1,4 +1,4 @@
-# Merhaba, ben Sıla 👋
+# Merhaba, ben Sıla 
 
 🎓 Bilgisayar Mühendisliği öğrencisiyim. 
 
