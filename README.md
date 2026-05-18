@@ -11,6 +11,7 @@
 - Java
 - HTML, CSS, JavaScript  
 - Visual Studio 2022
+- Visual Studio Code
 - Apache NetBeans
 - Notepad++
 
