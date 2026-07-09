@@ -1,21 +1,30 @@
 # Merhaba, ben Sıla 
 
 🎓 Bilgisayar Mühendisliği öğrencisiyim. 
+Akademik eğitimimi sadece sınıfta bırakmayıp sektörün dinamikleriyle birleştirmek adına güncel teknolojileri yakından takip ediyorum. 
 
-💻 Yazılım geliştirme, web teknolojileri ve algoritmalarla ilgileniyorum. Uzmanlık alanımı belirleyebilmek için farklı alanları araştırıyor ve deneyimliyorum. Akademik eğitimimin yanında vakit buldukça eğitim programları ve seminerlerle bilgi ve vizyonumu genişletiyorum.
+Farklı çalışma alanlarını tanımak amacıyla; veri analizi, makine öğrenmesi, siber güvenlik gibi disiplinlerde eğitimlere katılarak teorik altyapı edindim. 
 
----
+Henüz pratik deneyim kazanma aşamasında olsam da edindiğim bu teorik vizyonla farklı alanları incelemeye ve kendime en uygun kariyer yol haritasını çizmeye devam ediyorum.
 
-## 🔧 Teknolojiler ve Araçlar  
-- C  
+
+
+## 💻 Programlama Dilleri
+- C / C++
 - Java
-- HTML, CSS, JavaScript  
-- Visual Studio 2022
-- Visual Studio Code
+
+## 🌐 Web Geliştirme
+- HTML5 & CSS3
+- JavaScript
+
+## 🗄️ Veritabanı Yönetimi
+- Microsoft SQL Server (MS SQL)
+  
+## 🔧 Geliştirme Ortamları
+- Visual Studio 2022 / Visual Studio Code
 - Apache NetBeans
 - Notepad++
 
----
 
 ## 📫 Bana Ulaşın
 - 📧 E-posta: sila.ttamer@gmail.com 
