@@ -1,51 +1,47 @@
-# Merhaba, Ben Sıla 👋
+# Merhaba, ben Sıla 
+ 
+Yazılım temellerimi C ile konsol uygulamaları geliştirerek attım; ardından uçtan uca çalışan web ve masaüstü projeleri geliştirerek pratik kazandım.
 
-Bilgisayar Mühendisliği öğrencisi ve savunma sanayii odaklı teknolojilere ilgi duyan bir geliştirici adayıyım. Akademik temellerimi gerçek dünya problemleriyle buluşturarak **Görüntü İşleme (Computer Vision)**, **Yapay Zekâ** ve **Uçtan Uca Sistem Geliştirme** alanlarında kendimi geliştiriyorum.
+Şu sıralar ise **Görüntü İşleme (Computer Vision)** alanındaki ilk kapsamlı projem üzerinde çalışıyorum.
 
-Endüstriyel ihtiyaçlara yönelik masaüstü otomasyon araçları, tam kapsamlı web uygulamaları ve algoritmik sistemler inşa ederek yazılım yaşam döngüsünün tüm katmanlarında (arayüz, iş mantığı, veri tabanı) pratik çözümler üretiyorum.
-
----
-
-### 🔭 Odak Alanlarım & Hedeflerim
-- 🎯 **Görüntü İşleme & Yapay Zekâ:** Gerçek zamanlı görüntü analizi ve makine öğrenmesi uygulamaları üzerinde pratik çalışmalar yürütüyorum.
-- 🛡️ **Savunma Sanayii & Güvenilirlik:** Yüksek performanslı, optimize edilmiş ve kritik sistemlerde çalışabilecek yazılımlar üretmeyi hedefliyorum.
-- ⚙️ **Uçtan Uca Geliştirme:** Otomasyon araçları ve veri odaklı paneller tasarlayarak süreçleri dijitalleştiriyorum.
+Uzun vadeli hedefim; yapay zekâ, görüntü işleme ve veri odaklı sistemlerde uzmanlaşarak **savunma sanayiinde** kritik ve güvenilir sistemler geliştiren ekiplerin bir parçası olmak.
 
 ---
 
-### 🛠️ Teknolojiler & Araçlar
+### 🏭 Saha & Staj Deneyimi
 
-**Diller & Temel Altyapı**  
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Toyota Otomotiv Sanayi Türkiye — OMDD (Operation Management Development Division)**  
+*Stajyer Mühendis*
 
-**Web & Veri Tabanı**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+Staj sürecim boyunca hem endüstriyel üretim sahasında hem de operasyonel yazılım geliştirme tarafında aktif rol aldım:
 
-**Geliştirme Araçları**  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- **Eğitim Takip Paneli (Masaüstü Otomasyonu):**  
+  Departmanın personel eğitim süreçlerini dijitalleştirmek ve analiz etmek amacıyla uçtan uca bir masaüstü yazılımı geliştirdim.
+  - **Back-end & Veri:** Java ve SQLite.
+  - **Front-end & Görselleştirme:** Yerel ortamda çalıştırmak için **JavaFX WebView** köprüsü kurarak HTML5, CSS3, JavaScript ve **Chart.js** ile dinamik grafik arayüzü oluşturdum.
+  - **Entegrasyon:** **Apache POI** kütüphanesini kullanarak eğitim verilerinin Excel üzerinden içeri/dışarı aktarımını sağladım.
+- **Saha Analizleri & Jishuken Faaliyetleri:**  
+  Üretim hattında gözlemler, zaman etüdü ve **Kaizen** (sürekli iyileştirme) çalışmalarına katıldım. Seri üretimdeki hatlar arası kusursuz senkronizasyonu ve büyük ölçekli endüstriyel sistemlerin arka planındaki operasyonel mimariyi yerinde deneyimledim.
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 🛠️ Teknolojiler & Araçlar4
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=slatamer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sıla'nın GitHub İstatistikleri" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slatamer&layout=compact&theme=tokyonight&hide_border=true" alt="En Çok Kullanılan Diller" />
-</div>
+- <img src="https://skillicons.dev/icons?i=c" width="25" height="25" valign="middle" /> C
+- <img src="https://skillicons.dev/icons?i=cpp" width="25" height="25" valign="middle" /> C++
+- <img src="https://skillicons.dev/icons?i=java" width="25" height="25" valign="middle" /> Java
+- <img src="https://skillicons.dev/icons?i=py" width="25" height="25" valign="middle" /> Python
+- <img src="https://skillicons.dev/icons?i=html" width="25" height="25" valign="middle" /> HTML5
+- <img src="https://skillicons.dev/icons?i=css" width="25" height="25" valign="middle" /> CSS3
+- <img src="https://skillicons.dev/icons?i=js" width="25" height="25" valign="middle" /> JavaScript
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="22" height="22" valign="middle" /> MS SQL
+- <img src="https://skillicons.dev/icons?i=sqlite" width="25" height="25" valign="middle" /> SQLite
+- <img src="https://skillicons.dev/icons?i=vscode" width="25" height="25" valign="middle" /> Visual Studio Code
+- <img src="https://skillicons.dev/icons?i=idea" width="25" height="25" valign="middle" /> IntelliJ IDEA
 
 ---
 
-### 📬 İletişim
+### 📫 İletişim
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s%C4%B1la-tamer-b32429382)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sila.ttamer@gmail.com)
+- <img src="https://skillicons.dev/icons?i=linkedin" width="22" height="22" valign="middle" /> [linkedin.com/in/sıla-tamer-b32429382](https://www.linkedin.com/in/s%C4%B1la-tamer-b32429382)
+- <img src="https://skillicons.dev/icons?i=gmail" width="22" height="22" valign="middle" /> [sila.ttamer@gmail.com](mailto:sila.ttamer@gmail.com)
